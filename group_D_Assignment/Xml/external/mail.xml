@@ -1,0 +1,7 @@
+<!DOCTYPE mail SYSTEM "mail.dtd">
+<mail>
+    <to>Students</to>
+    <from>Teacher</from>
+    <subject>programming</subject>
+    <message>Never miss the python class</message>
+</mail>

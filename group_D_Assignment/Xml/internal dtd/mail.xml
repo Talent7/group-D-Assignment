@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mail[
+
+<!ELEMENT mail(to, from, subject, message)>
+
+<!ELEMENT to(#PCDATA)>
+
+<!ELEMENT from(#PCDATA)>
+
+<!ELEMENT subject(#PCDATA)>
+
+<!ELEMENT message(#PCDATA)>
+
+]>
+
+<mail>
+
+    <to>Students</to>
+
+    <from>Teacher</from>
+
+    <subject>programming</subject>
+
+    <message> Never miss the python class</message>
+
+</mail>
